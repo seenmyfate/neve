@@ -49,8 +49,8 @@ With the configuration and tracks in place, we can bounce the mix to file:
 
     $ neve mix my_awesome_tune
 
-The mixed file name will include a timestamp to avoid replacing any existing mixes,
-so for example `my_awesome_tune_20140502132657.wav`
+The mixed file name will (eventually) include a timestamp to avoid replacing any existing mixes,
+so for example `my_awesome_tune_20140502132657.wav` - for now though, it will just over-write `my_awesome_tune.wav`.
 
 ## Contributing
 
