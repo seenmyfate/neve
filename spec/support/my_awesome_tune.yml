@@ -1,0 +1,9 @@
+bass:
+  fader: 33
+  pan: 25
+drums:
+  fader: 33
+  pan: 50
+guitar:
+  fader: 33
+  pan: 75

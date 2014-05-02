@@ -1,5 +1,5 @@
-require "neve/version"
+require 'neve/cli'
 
 module Neve
-  # Your code goes here...
+  # Friendly audio mixing, right on your command line.
 end
