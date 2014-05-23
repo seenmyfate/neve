@@ -1,4 +1,4 @@
-# Neve
+# Neve [![Build Status](https://travis-ci.org/seenmyfate/neve.png)](http://travis-ci.org/seenmyfate/neve) [![Code Climate](https://codeclimate.com/github/seenmyfate/neve.png)](https://codeclimate.com/github/seenmyfate/neve)
 
 Friendly audio mixing, on your command line.
 
